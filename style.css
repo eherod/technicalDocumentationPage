@@ -1,0 +1,134 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  color: #4d4e53;
+  background-color: #ffffff;
+  font-family: "Open Sans", Arial, sans-serif;
+  line-height: 1.5;
+}
+nav{
+  float: left;
+  position: fixed;
+  height: 626px;
+  overflow: auto;
+}
+nav header{
+font-size: 30px;
+margin:0;
+border-style: solid;
+border-width: thin;
+border-top: 0;
+border-left: 0;
+padding: 10px 30px 20px 30px;
+position: fixed;
+background-color: white;
+z-index: 1;
+
+}
+
+nav li{
+  list-style-type: none;
+  border-style: solid;
+  border-width: thin;
+  border-left: 0;
+  border-top: 0;
+  font-size: 18px;
+  padding: 15px 0px 15px 30px;
+  width: 275px;
+
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+}
+a :visited{
+  text-decoration: none;
+}
+
+main{
+
+  margin-left: 350px;
+  margin-right: 20px;
+  margin-bottom: 75px;
+  padding-top: 50px;
+}
+main header{
+  font-weight: bold;
+  font-size: 25px;
+}
+main p{
+  margin-left: 10px;
+}
+main li{
+  margin-left: 75px;
+
+
+
+}
+.hw-article{
+  background-color: #f7f7f7;
+  padding: 20px 0 20px 20px;
+  margin-left: 25px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+
+}
+.dec-var-art{
+background-color: #f7f7f7;
+padding: 10px 0 10px 20px;
+margin-left: 25px;
+margin-bottom: 15px;
+border-radius: 10px;
+
+}
+.var-sco-art{
+  background-color: #f7f7f7;
+  padding: 10px 0 10px 20px;
+  margin-left: 25px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+.con-art{
+  background-color: #f7f7f7;
+  padding: 10px 0 10px 20px;
+  margin-left: 25px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+
+}
+.if-art{
+  background-color: #f7f7f7;
+  padding: 10px 0 10px 20px;
+  margin-left: 25px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+
+}
+.while-art{
+  background-color: #f7f7f7;
+  padding: 10px 0 10px 20px;
+  margin-left: 25px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+
+}
+.fun-dec-art{
+  background-color: #f7f7f7;
+  padding: 10px 0 10px 20px;
+  margin-left: 25px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+
+}
+.nested-li{
+  list-style-type: none;
+}
+
+
+#intro-li{
+  margin-top: 76px;
+}
